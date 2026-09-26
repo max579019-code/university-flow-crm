@@ -143,6 +143,24 @@ LMS + сайт заказчика + документооборот
 - развёртывание в Linux-контуре;
 - выполнение применимых требований информационной безопасности.
 
+## Скриншоты MVP
+
+### Реестр вузов
+
+![CrmHome](screenshots/01-crmhome.png)
+
+### Добавление нового вуза
+
+![Add University](screenshots/02-add-university.png)
+
+### Карточка вуза
+
+![University Details](screenshots/03-university-details.png)
+
+### Формирование отчёта
+
+![Reports](screenshots/04-reports.png)
+
 ## Команда
 
 - Максим — разработка MVP, FlutterFlow, Firestore, пользовательские сценарии.
